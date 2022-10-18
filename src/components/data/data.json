@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "author": "eeee",
+      "title": "werewrwe",
+      "content": "ewr"
+    },
+    {
+      "id": 4,
+      "author": "sad",
+      "title": "asdas",
+      "content": "dsad"
+    },
+    {
+      "id": 5,
+      "author": "sad",
+      "title": "asd",
+      "content": "sad"
+    }
+  ]
+}
